@@ -56,19 +56,19 @@ dt.predict([[5,6]])
 
 ## Output:
 ### Head :
-![](1.JPG)
+![](1.jpg)
 ### Info :
-![](2.JPG)
+![](2.jpg)
 ### Isnull :
-![](3.JPG)
+![](3.jpg)
 ### Head using label encoder :
-![](4.JPG)
+![](4.jpg)
 ### Mean Square Error :
-![](5.JPG)
+![](5.jpg)
 ### R2 :
-![](6.JPG)
+![](6.jpg)
 ### Array :
-![](7.JPG)
+![](7.jpg)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
