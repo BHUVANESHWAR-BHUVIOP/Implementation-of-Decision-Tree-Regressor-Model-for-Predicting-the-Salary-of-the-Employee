@@ -20,6 +20,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Program:
 ```python
+'''
+Developed by: bhuvaneshwar v
+RegisterNumber: 212221240009
+'''
 
 import pandas as pd
 d=pd.read_csv("Salary.csv")
